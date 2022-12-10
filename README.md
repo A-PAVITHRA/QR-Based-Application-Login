@@ -1,5 +1,5 @@
 
-# Laravel Framework 5.4 ,Sentinel,Crud Generator ,Qr Code Login
+# QR Based Application Login
 [Check our article ](http://www.rolandalla.com/laravel-login-qr-code/) 
 
 ##Check how it works on youtube :
