@@ -5,7 +5,7 @@
 ##Check how it works on youtube :
 [![Laravel QR Code generator and login](https://img.youtube.com/vi/PZjzAgGticE/0.jpg)](https://www.youtube.com/watch?v=PZjzAgGticE)
 
-## Starter Site based on on Laravel 5.4 
+## Starter Site based on Login
 * [Features](#feature1)
 * [Requirements](#feature2)
 * [How to install](#feature3)
@@ -145,14 +145,6 @@ Inspired by Laravel 5.4 and based on:
 [Laravel Starter ](https://github.com/roladn/laravel-sentinel-crud-starter)
 ----
 <a name="feature8"></a>
-##How Starter Site is look like
-
-![Qr Code Sacaning](http://i63.tinypic.com/21l4pbq.png)
-![Login](http://i64.tinypic.com/23vku8w.png)
-![Register new user](http://i63.tinypic.com/21jaybp.png)
-![Admin dashboard](http://i66.tinypic.com/a4bj9l.png)
-![Admin list users](http://i63.tinypic.com/2ivzio9.png)
-![Perrmissons user/role ](http://i67.tinypic.com/35jgn52.png)
 
 ----
 
