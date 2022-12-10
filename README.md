@@ -163,9 +163,6 @@ Inspired by Laravel 5.4 and based on:
 ----
 
 
-Read More From my Plog Post
-[Read Step by step integration ](http://www.rolandalla.com/laravel-login-qr-code/)
-http://www.rolandalla.com/laravel-login-qr-code/
 
 
 
