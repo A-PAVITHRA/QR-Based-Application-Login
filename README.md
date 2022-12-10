@@ -169,7 +169,4 @@ http://www.rolandalla.com/laravel-login-qr-code/
 
 
 
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
 
-[![Beerpay](https://beerpay.io/roladn/laravel-qr-code-login/badge.svg?style=beer-square)](https://beerpay.io/roladn/laravel-qr-code-login)  [![Beerpay](https://beerpay.io/roladn/laravel-qr-code-login/make-wish.svg?style=flat-square)](https://beerpay.io/roladn/laravel-qr-code-login?focus=wish)
