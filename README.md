@@ -146,21 +146,6 @@ OR
 
 -----
 <a name="feature6"></a>
-## License
-
-This is free software distributed under the terms of the MIT license
-
------
-<a name="feature7"></a>
-## Additional information
-
-Inspired by Laravel 5.4 and based on:
-[Crud Generator](https://github.com/roladn/laravelcrud)
-[Laravel Starter ](https://github.com/roladn/laravel-sentinel-crud-starter)
-----
-<a name="feature8"></a>
-
-----
 
 
 
