@@ -1,14 +1,19 @@
 
 # QR Based Application Login
 #Notes for Backend:
-*1. Create an API to generate tokens for QR.
-*2. Create API to validate token, username & password.
+*1. Create an API to generate tokens for QR.   
+
+*2. Create API to validate token, username & password.    
+
 *3. API or Socket to get the Login Result in the Secured Device.
 
 #Notes for Frontend:
 *1. Create a page to show the QR code
+
 *2. Create a page to launch with a Username & Password when QR is scanned or while opening the URL from the QR
+
 *3. Create dummy success & failure pages.
+
 [Check our article ](http://www.rolandalla.com/laravel-login-qr-code/) 
 
 ##Check how it works on youtube :
